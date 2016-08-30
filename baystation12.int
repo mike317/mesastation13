@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1470992534
+DIR: code code\_onclick code\_onclick\hud code\datums code\datums\outfits code\datums\outfits\jobs code\datums\repositories code\datums\repositories\crew code\datums\supplypacks code\datums\trading code\datums\uplink code\datums\vending code\game code\game\antagonist code\game\antagonist\outsider code\game\gamemodes code\game\gamemodes\meme code\game\jobs code\game\jobs\job code\game\objects\items code\game\objects\items\stacks code\game\objects\items\stacks\sheets code\game\objects\items\stacks\tiles code\modules code\modules\clothing code\modules\clothing\head code\modules\clothing\masks code\modules\clothing\shoes code\modules\clothing\suits code\modules\clothing\under code\modules\projectiles code\modules\projectiles\ammunition code\modules\projectiles\guns code\modules\projectiles\guns\projectile html html\images icons icons\misc icons\mob icons\mob\screen icons\obj icons\obj\clothing 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 510.1344
+WINDOW: code\modules\projectiles\guns\projectile\sniper.dm;code\game\objects\items\stacks\stack.dm;code\modules\projectiles\ammunition.dm;code\datums\outfits\misc.dm;code\modules\projectiles\ammunition\bullets.dm;icons\obj\ammo.dmi;code\game\jobs\job\civilian.dm;code\hub.dm;code\modules\clothing\clothing.dm
+FILE: code\modules\clothing\clothing.dm
+*/
+// END_INTERNALS
